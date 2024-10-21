@@ -1,11 +1,11 @@
 import React from 'react';
-import Pools from './Pools'; // 导入 Pools 组件
+import Pools from './Pools';
 
 function App() {
     return (
         <div className="App">
-            <h1>Welcome to Uniswap Aaron Demo</h1>
-            <Pools /> {/* 添加 Pools 组件 */}
+            <h1 className="text-center my-5">Welcome to Uniswap Aaron Demo</h1>
+            <Pools />
         </div>
     );
 }
