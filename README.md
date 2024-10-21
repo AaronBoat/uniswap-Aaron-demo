@@ -1,5 +1,5 @@
 # uniswap-Aaron-demo
-a demo from Aaron and KiritoFD,classmates in FDU for the graph with uniswap.We developed an integrated viewer that allows users to comfortably view the currently top-ranked pools, and then customize their viewing and sorting options (currently in progress). It's similar to DEX SCREENER with icon-based visualization that is still underway.
+a demo from Aaron and KiritoFD,classmates in FDU for the graph with uniswap.We developed an integrated viewer that allows users to comfortably view the currently top-ranked pools, and then customize their viewing and sorting options (currently in progress). It allows traders and investors to track and analyze real-time data from multiple decentralized exchanges and chains(similar to DEX SCREENER) with icon-based visualization that is still underway.
 # Uniswap Aaron Demo Project
 
 ## Project Overview
